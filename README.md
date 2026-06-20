@@ -79,7 +79,7 @@ Have a project in mind? We'd love to hear from you.
 
 ## Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-MikeSoft--Studio-181717?style=flat-square&logo=github)](https://github.com/MikeSoft-Studio)
+[![GitHub](https://img.shields.io/badge/GitHub-MikeSoft--Studio-181717?style=flat-square&logo=github)](https://github.com/mikesoftstudio)
 [![X](https://img.shields.io/badge/X-@mikesoftstudio-000000?style=flat-square&logo=x)](https://x.com/mikesoftstudio)
 [![Facebook](https://img.shields.io/badge/Facebook-mikesoftstudio-1877F2?style=flat-square&logo=facebook)](https://web.facebook.com/mikesoftstudio)
 [![TikTok](https://img.shields.io/badge/TikTok-@mikesoftstudio-000000?style=flat-square&logo=tiktok)](https://www.tiktok.com/@mikesoftstudio)
